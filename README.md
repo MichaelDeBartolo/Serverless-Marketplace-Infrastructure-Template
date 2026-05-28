@@ -80,7 +80,14 @@ Questo progetto è distribuito sotto licenza MIT. Consulta il file LICENSE per u
 
 ---
 
-### 💡 Perché questa versione spacca:
-- **I recruiter adorano i diagrammi di flusso:** Anche se fatti in formato testo (ASCII art), fanno capire immediatamente che hai una visione d'insieme del sistema (System Architecture).
-- **Parole chiave di Cybersecurity:** Termini come *IDOR*, *Alta entropia*, *Validazione crittografica* e *Transazioni atomiche* sono calamite per gli occhi dei Lead Developer che fanno i colloqui tecnici.
-- **Approccio DevOps:** Mostrare la struttura delle cartelle e spiegare come si configurano i segreti di produzione puliti fa capire che sai come si gestisce un server cloud senza fare pasticci.
+---
+
+## 🎯 Considerazioni Finali & AI-Driven Engineering
+
+Questo repository rappresenta una solida dimostrazione di **ingegneria del software moderna ed "Edge-First"**. L'intero ciclo di progettazione, refactoring e hardening della sicurezza è stato condotto applicando metodologie avanzate di **AI-Driven Development** (attraverso l'uso strategico di prompt ingegneristici e l'orchestrazione dell'ambiente di sviluppo tramite modelli di IA).
+
+### 💡 Nota sulla Proprietà Intellettuale & Logica di Business
+* **Astrazione del Codice:** Per motivi di riservatezza commerciale e protezione del posizionamento di mercato, questo repository **non contiene** le logiche di business proprietarie, i moduli specifici di messaggistica asimmetrica per le trattative private, i database di categorizzazione degli asset reali o l'interfaccia utente finale del brand.
+* **Scopo del Progetto:** Il codice qui presente ha scopi puramente dimostrativi ed espositivi per illustrare le mie competenze verticali in ambito **Full-Stack Development (Supabase/Vercel)**, **Sistemistica Cloud/DevOps (Serverless Infrastructure)** e **Cybersecurity (Hardening di API e policy RLS PostgreSQL)**. 
+
+Se desideri approfondire le metriche prestazionali, i flussi di business completi o discutere di una potenziale collaborazione, non esitare a contattarmi direttamente tramite i canali di riferimento sul mio profilo.
